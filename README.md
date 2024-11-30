@@ -33,10 +33,53 @@ This project is a digital implementation of the classic murder mystery board gam
 
 ---
 
-## Installation
-Follow these steps to set up and play the game:
+Here’s a detailed **Installation Section** for your README file:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/HARSHITH21/Cluedo_Project
-   cd Cluedo_Project
+---
+
+## **Installation**
+
+Follow these steps to set up and run the Cluedo game:
+
+#### **1. Clone the Repository**
+Download the project from GitHub by cloning the repository:
+```bash
+git clone https://github.com/HARSHITH21/Cluedo_Project.git
+cd Cluedo_Project
+```
+
+#### **2. Ensure Python is Installed**
+Make sure Python 3.7 or higher is installed on your system:
+- To check the Python version:
+  ```bash
+  python --version
+  ```
+  Or, if using `python3`:
+  ```bash
+  python3 --version
+  ```
+
+#### **3. Install Dependencies**
+If any external libraries are required, install them using `pip`. (Currently, the project does not require any external dependencies, but you can create a `requirements.txt` file for future use.)
+
+To install dependencies from a `requirements.txt` file:
+```bash
+pip install -r requirements.txt
+```
+
+#### **4. Run the Game**
+Start the game by running the main script:
+```bash
+python cluedo_game.py
+```
+Or, if using `python3`:
+```bash
+python3 cluedo_game.py
+```
+
+#### **5. Gameplay**
+Follow the instructions displayed in the terminal to navigate rooms, make suggestions, and solve the mystery.
+
+---
+
+Let me know if you’d like this to be adjusted further or tailored to specific environments! 🚀
