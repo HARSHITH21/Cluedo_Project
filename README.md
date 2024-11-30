@@ -33,10 +33,6 @@ This project is a digital implementation of the classic murder mystery board gam
 
 ---
 
-Here’s a detailed **Installation Section** for your README file:
-
----
-
 ## **Installation**
 
 Follow these steps to set up and run the Cluedo game:
