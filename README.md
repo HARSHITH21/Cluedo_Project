@@ -80,6 +80,4 @@ python3 cluedo_game.py
 #### **5. Gameplay**
 Follow the instructions displayed in the terminal to navigate rooms, make suggestions, and solve the mystery.
 
----
 
-Let me know if you’d like this to be adjusted further or tailored to specific environments! 🚀
