@@ -55,15 +55,7 @@ Make sure Python 3.7 or higher is installed on your system:
   python3 --version
   ```
 
-#### **3. Install Dependencies**
-If any external libraries are required, install them using `pip`. (Currently, the project does not require any external dependencies, but you can create a `requirements.txt` file for future use.)
-
-To install dependencies from a `requirements.txt` file:
-```bash
-pip install -r requirements.txt
-```
-
-#### **4. Run the Game**
+#### **3. Run the Game**
 Start the game by running the main script:
 ```bash
 python cluedo_game.py
@@ -73,7 +65,7 @@ Or, if using `python3`:
 python3 cluedo_game.py
 ```
 
-#### **5. Gameplay**
+#### **4. Gameplay**
 Follow the instructions displayed in the terminal to navigate rooms, make suggestions, and solve the mystery.
 
 This looks fantastic! You've got a clean and organized README file with clear instructions under the **Installation** section.
@@ -153,7 +145,7 @@ Here are some ideas for improving the game in the future:
 
 ---
 
-## **Authors**
-- [Your Name]
+## **Author**
+- Harshith Gade
 
 ---
