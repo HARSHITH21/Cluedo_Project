@@ -1,4 +1,16 @@
 # Cluedo Game
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [File Descriptions](#file-descriptions)
+- [Example Gameplay](#example-gameplay)
+- [Future Enhancements](#future-enhancements)
+- [Authors](#authors)
+- [License](#license)
+
 
 ## Overview
 This project is a digital implementation of the classic murder mystery board game **Cluedo (Clue)**. Players move between rooms, make suggestions, and solve the murder mystery using deduction and logic. The game is implemented in Python and provides an interactive command-line experience.
