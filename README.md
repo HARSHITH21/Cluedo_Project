@@ -26,5 +26,5 @@ Follow these steps to set up and play the game:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/HARSHITH21/Cluedo_Project.git
+   git clone https://github.com/HARSHITH21/Cluedo_Project
    cd Cluedo_Project
